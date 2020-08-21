@@ -28,6 +28,8 @@ tns build <platform> --env.production
 
 ### Indication concernant les TD réalisés
 #TD-1
+#TD-2 : - ajouter un item à la liste
+#       - modifier un item et sa description
 
 ### Les inscructions pour installer et démarrer le projet
 #Brancher votre appareil sur votre ordinateur
@@ -42,3 +44,6 @@ tns build <platform> --env.production
 
 #Aucun débug ou logcat disponible lors du lancement de l'application contrairement à Android Studio
 #Solution : le logcat est dans la boite de commande
+
+#Parfois le css ne modifie pas l'application
+#Solution ?? : modifier le texte ou l'élément sur lequel le css à été modifié
